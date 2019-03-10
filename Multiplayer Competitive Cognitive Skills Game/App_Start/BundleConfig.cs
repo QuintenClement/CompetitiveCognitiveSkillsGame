@@ -23,7 +23,7 @@ namespace Multiplayer_Competitive_Cognitive_Skills_Game
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      "~/Content/New Theme.css",
                       "~/Content/site.css"));
         }
     }
